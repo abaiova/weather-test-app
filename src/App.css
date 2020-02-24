@@ -1,0 +1,20 @@
+body, html, #root{
+    height:100%;
+}
+.App div{
+  text-align: center;
+}
+
+.cold-weather{
+background-color: #00ffff;
+}
+
+.warm-weather{
+  background-color: #fff700;
+}
+
+.hot-weather{
+  background-color: #ff8c00;
+}
+
+
